@@ -23,7 +23,7 @@ espnow_instance = espnow.ESPNow()
 espnow_instance.active(True)
 
 
-textos = ["Franklin Simbaña", "Angel llivicura"]
+textos = ["Xavier Guaman"]
 
 
 while True:
